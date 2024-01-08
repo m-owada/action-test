@@ -72,4 +72,6 @@
 
 ## プレイ
 
-[ここをクリックしてください。](https://mo-action-test.herokuapp.com/)
+[ここをクリックしてください。](https://m-owada.github.io/action-test/)
+
+- 現在ランキング登録はできません。過去のランキングは[こちら](RANK.md)でご確認ください。
